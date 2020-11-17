@@ -1,2 +1,2 @@
 # async-calls
-Handling async with enumerations
+Async calls completion handlers with enumerations.
