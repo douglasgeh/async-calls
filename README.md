@@ -1,2 +1,4 @@
-# async-calls
-Async calls completion handlers with enumerations.
+# Handling async calls
+
+# What is it?
+Test project to handle async calls with enumerations.
